@@ -1,0 +1,101 @@
+
+[
+    {
+        "Personality": "INTJ",
+        "Movies": ["Inception", "The Matrix", "The Imitation Game", "Interstellar", "A Beautiful Mind", "2001: A Space Odyssey", "Piku", "Taare Zameen Par", "Lagaan", "Rang De Basanti"],
+        "Songs": ["Time - Hans Zimmer", "Bohemian Rhapsody - Queen", "Radioactive - Imagine Dragons", "The Scientist - Coldplay", "Space Oddity - David Bowie", "Lose Yourself - Eminem", "Agar Tum Saath Ho - Tamasha", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Kabira - Yeh Jawaani Hai Deewani", "Tujh Mein Rab Dikhta Hai - Rab Ne Bana Di Jodi"],
+        "Books": ["The Fountainhead - Ayn Rand", "1984 - George Orwell", "Atlas Shrugged - Ayn Rand", "Brave New World - Aldous Huxley", "The Catcher in the Rye - J.D. Salinger", "The Stranger - Albert Camus", "The White Tiger - Aravind Adiga", "Shantaram - Gregory David Roberts", "Midnight's Children - Salman Rushdie", "The God of Small Things - Arundhati Roy"]
+    },
+    {
+        "Personality": "INTP",
+        "Movies": ["The Social Network", "The Matrix", "Her", "Ex Machina", "The Prestige", "Inception", "3 Idiots", "Barfi!", "Zindagi Na Milegi Dobara", "Maqbool"],
+        "Songs": ["The Sound of Silence - Simon & Garfunkel", "Creep - Radiohead", "Time - Hans Zimmer", "Stairway to Heaven - Led Zeppelin", "Bohemian Rhapsody - Queen", "Smells Like Teen Spirit - Nirvana", "Uptown Funk - Mark Ronson", "Dil Chahta Hai - Dil Chahta Hai", "Phoolon Ka Taron Ka - Hare Rama Hare Krishna", "Chaiyya Chaiyya - Dil Se"],
+        "Books": ["The Catcher in the Rye - J.D. Salinger", "Sapiens - Yuval Noah Harari", "The Man Who Mistook His Wife for a Hat - Oliver Sacks", "1984 - George Orwell", "The Selfish Gene - Richard Dawkins", "The Innovators - Walter Isaacson", "The Palace of Illusions - Chitra Banerjee Divakaruni", "The Hungry Tide - Amitav Ghosh", "The White Tiger - Aravind Adiga", "The Immortals of Meluha - Amish Tripathi"]
+    },
+    {
+        "Personality": "ENTJ",
+        "Movies": ["The Wolf of Wall Street", "The Godfather", "The Social Network", "Moneyball", "Gladiator", "The Pursuit of Happyness", "Sholay", "Dangal", "Sultan", "Chakde! India"],
+        "Songs": ["We Will Rock You - Queen", "Stronger - Kanye West", "Lose Yourself - Eminem", "Eye of the Tiger - Survivor", "Started from the Bottom - Drake", "Power - Kanye West", "Jai Ho - Slumdog Millionaire", "Chak De! India - Chak De! India", "Zinda - Bhaag Milkha Bhaag", "Kar Har Maidan Fateh - Sanju"],
+        "Books": ["How to Win Friends and Influence People - Dale Carnegie", "The Art of War - Sun Tzu", "The 48 Laws of Power - Robert Greene", "Think and Grow Rich - Napoleon Hill", "The Lean Startup - Eric Ries", "The Innovator's Dilemma - Clayton Christensen", "The Shiva Trilogy - Amish Tripathi", "The Alchemist - Paulo Coelho", "Wings of Fire - APJ Abdul Kalam", "The Great Indian Novel - Shashi Tharoor"]
+    },
+    {
+        "Personality": "ENTP",
+        "Movies": ["The Matrix", "The Social Network", "Good Will Hunting", "Deadpool", "The Truman Show", "Her", "Zindagi Na Milegi Dobara", "PK", "Chhichhore", "Rock On!!"],
+        "Songs": ["Lose Yourself - Eminem", "Bohemian Rhapsody - Queen", "Can't Stop - Red Hot Chili Peppers", "Take Me to Church - Hozier", "Radioactive - Imagine Dragons", "Rolling in the Deep - Adele", "Chandni Chowk to China - Chandni Chowk to China", "Banno - Tanu Weds Manu", "Tamma Tamma Again - Badrinath Ki Dulhania", "Gallan Goodiyan - Dil Dhadakne Do"],
+        "Books": ["The Hitchhiker's Guide to the Galaxy - Douglas Adams", "The Innovator's Dilemma - Clayton Christensen", "Outliers - Malcolm Gladwell", "Freakonomics - Steven D. Levitt", "The Lean Startup - Eric Ries", "Zero to One - Peter Thiel", "The 3 Mistakes of My Life - Chetan Bhagat", "Five Point Someone - Chetan Bhagat", "The God of Small Things - Arundhati Roy", "The White Tiger - Aravind Adiga"]
+    },
+    {
+        "Personality": "INFJ",
+        "Movies": ["The Secret Life of Walter Mitty", "A Beautiful Mind", "The Pursuit of Happyness", "The Shawshank Redemption", "Dead Poets Society", "The Green Mile", "Barfi!", "Taare Zameen Par", "Queen", "Chhichhore"],
+        "Songs": ["Hallelujah - Leonard Cohen", "Imagine - John Lennon", "Let It Be - The Beatles", "The Sound of Silence - Simon & Garfunkel", "The Scientist - Coldplay", "What a Wonderful World - Louis Armstrong", "Agar Tum Saath Ho - Tamasha", "Tujh Mein Rab Dikhta Hai - Rab Ne Bana Di Jodi", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Phoolon Ka Taron Ka - Hare Rama Hare Krishna"],
+        "Books": ["Man's Search for Meaning - Viktor Frankl", "The Alchemist - Paulo Coelho", "Brida - Paulo Coelho", "The Power of Now - Eckhart Tolle", "Siddhartha - Hermann Hesse", "The Prophet - Kahlil Gibran", "The Immortals of Meluha - Amish Tripathi", "The White Tiger - Aravind Adiga", "The Hungry Tide - Amitav Ghosh", "My Experiments with Truth - Mahatma Gandhi"]
+    },
+    {
+        "Personality": "INFP",
+        "Movies": ["The Secret Life of Walter Mitty", "Amélie", "The Perks of Being a Wallflower", "Into the Wild", "The Fault in Our Stars", "The Pianist", "Barfi!", "Dil Chahta Hai", "Zindagi Na Milegi Dobara", "Chhichhore"],
+        "Songs": ["Bohemian Rhapsody - Queen", "The Scientist - Coldplay", "Hallelujah - Jeff Buckley", "Space Oddity - David Bowie", "Let It Be - The Beatles", "The Sound of Silence - Simon & Garfunkel", "Kabira - Yeh Jawaani Hai Deewani", "Tujh Mein Rab Dikhta Hai - Rab Ne Bana Di Jodi", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Teri Meri - Bodyguard"],
+        "Books": ["The Catcher in the Rye - J.D. Salinger", "The Little Prince - Antoine de Saint-Exupéry", "The Book Thief - Markus Zusak", "The Alchemist - Paulo Coelho", "The Fault in Our Stars - John Green", "The Perks of Being a Wallflower - Stephen Chbosky", "2 States - Chetan Bhagat", "The God of Small Things - Arundhati Roy", "The White Tiger - Aravind Adiga", "The Shiva Trilogy - Amish Tripathi"]
+    },
+    {
+        "Personality": "ENFJ",
+        "Movies": ["The Pursuit of Happyness", "Dead Poets Society", "The Shawshank Redemption", "A Beautiful Mind", "The Green Mile", "The Social Network", "Chakde! India", "Taare Zameen Par", "Piku", "Lagaan"],
+        "Songs": ["Man in the Mirror - Michael Jackson", "Let It Be - The Beatles", "What a Wonderful World - Louis Armstrong", "Wind Beneath My Wings - Bette Midler", "Imagine - John Lennon", "Hallelujah - Leonard Cohen", "Zinda - Bhaag Milkha Bhaag", "Kar Har Maidan Fateh - Sanju", "Jai Ho - Slumdog Millionaire", "Chak De! India - Chak De! India"],
+        "Books": ["The 5 Love Languages - Gary Chapman", "The Road Less Traveled - M. Scott Peck", "Daring Greatly - Brené Brown", "The Art of Happiness - Dalai Lama", "The Seven Habits of Highly Effective People - Stephen Covey", "Wings of Fire - APJ Abdul Kalam", "The God of Small Things - Arundhati Roy", "The Immortals of Meluha - Amish Tripathi", "2 States - Chetan Bhagat", "Life's Amazing Secrets - Gaur Gopal Das"]
+    },
+    {
+        "Personality": "ISFJ",
+        "Movies": ["The Pursuit of Happyness", "The Blind Side", "Forrest Gump", "A Beautiful Mind", "The Sound of Music", "Taare Zameen Par", "Chhichhore", "Piku", "Barfi!", "Dil Dhadakne Do"],
+        "Songs": ["The Sound of Silence - Simon & Garfunkel", "Let It Be - The Beatles", "Tujh Mein Rab Dikhta Hai - Rab Ne Bana Di Jodi", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Agar Tum Saath Ho - Tamasha", "Kabira - Yeh Jawaani Hai Deewani", "Ae Mere Humsafar - Baazigar", "Tujhe Dekha To - Dilwale Dulhania Le Jayenge", "Tera Ban Jaunga - Kabir Singh", "Pee Loon - Once Upon a Time in Mumbaai"],
+        "Books": ["The 5 Love Languages - Gary Chapman", "To Kill a Mockingbird - Harper Lee", "Pride and Prejudice - Jane Austen", "The Diary of Anne Frank - Anne Frank", "The Secret Garden - Frances Hodgson Burnett", "The Book Thief - Markus Zusak", "The White Tiger - Aravind Adiga", "The Immortals of Meluha - Amish Tripathi", "The God of Small Things - Arundhati Roy", "The Namesake - Jhumpa Lahiri"]
+    },
+    {
+        "Personality": "ENFP",
+        "Movies": ["Into the Wild", "The Perks of Being a Wallflower", "Deadpool", "Amélie", "500 Days of Summer", "The Secret Life of Walter Mitty", "Zindagi Na Milegi Dobara", "Barfi!", "Chhichhore", "Pyaar Ka Punchnama"],
+        "Songs": ["Bohemian Rhapsody - Queen", "Hey Ya! - OutKast", "Viva La Vida - Coldplay", "A Sky Full of Stars - Coldplay", "Take Me to Church - Hozier", "Creep - Radiohead", "Gallan Goodiyan - Dil Dhadakne Do", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Ilahi - Yeh Jawaani Hai Deewani", "Banno - Tanu Weds Manu"],
+        "Books": ["The Alchemist - Paulo Coelho", "The Catcher in the Rye - J.D. Salinger", "The Perks of Being a Wallflower - Stephen Chbosky", "The Book Thief - Markus Zusak", "Siddhartha - Hermann Hesse", "Brida - Paulo Coelho", "The God of Small Things - Arundhati Roy", "The White Tiger - Aravind Adiga", "2 States - Chetan Bhagat", "Life of Pi - Yann Martel"]
+    },
+    {
+        "Personality": "ISTJ",
+        "Movies": ["The Godfather", "12 Angry Men", "A Beautiful Mind", "The Shawshank Redemption", "The Dark Knight", "Forrest Gump", "Mangal Pandey: The Rising", "Lagaan", "Piku", "Rang De Basanti"],
+        "Songs": ["The Sound of Silence - Simon & Garfunkel", "Yesterday - The Beatles", "Take Me Home, Country Roads - John Denver", "Ain't No Mountain High Enough - Marvin Gaye", "Hallelujah - Leonard Cohen", "The Scientist - Coldplay", "Jai Ho - Slumdog Millionaire", "Tujh Mein Rab Dikhta Hai - Rab Ne Bana Di Jodi", "Maa Tujhe Salaam - Vande Mataram", "Dil Dhadakne Do - Zindagi Na Milegi Dobara"],
+        "Books": ["The 7 Habits of Highly Effective People - Stephen Covey", "1984 - George Orwell", "Brave New World - Aldous Huxley", "To Kill a Mockingbird - Harper Lee", "The Catcher in the Rye - J.D. Salinger", "The Art of War - Sun Tzu", "The Lean Startup - Eric Ries", "The Immortals of Meluha - Amish Tripathi", "The White Tiger - Aravind Adiga", "Shantaram - Gregory David Roberts"]
+    },
+    {
+        "Personality": "ESTJ",
+        "Movies": ["The Wolf of Wall Street", "The Godfather", "The Social Network", "Moneyball", "The Pursuit of Happyness", "12 Angry Men", "Chakde! India", "Dangal", "Sultan", "Sholay"],
+        "Songs": ["Eye of the Tiger - Survivor", "We Will Rock You - Queen", "Stronger - Kanye West", "Lose Yourself - Eminem", "Started from the Bottom - Drake", "Empire State of Mind - Jay-Z, Alicia Keys", "Zinda - Bhaag Milkha Bhaag", "Kar Har Maidan Fateh - Sanju", "Jai Ho - Slumdog Millionaire", "Gallan Goodiyan - Dil Dhadakne Do"],
+        "Books": ["The 48 Laws of Power - Robert Greene", "The Art of War - Sun Tzu", "The Lean Startup - Eric Ries", "The 7 Habits of Highly Effective People - Stephen Covey", "How to Win Friends and Influence People - Dale Carnegie", "Rich Dad Poor Dad - Robert Kiyosaki", "The Innovator's Dilemma - Clayton Christensen", "The Shiva Trilogy - Amish Tripathi", "The Alchemist - Paulo Coelho", "Wings of Fire - APJ Abdul Kalam"]
+    },
+    {
+        "Personality": "ESFJ",
+        "Movies": ["The Pursuit of Happyness", "The Blind Side", "The Sound of Music", "The Proposal", "Dead Poets Society", "Forrest Gump", "Lagaan", "Piku", "Dil Dhadakne Do", "Chhichhore"],
+        "Songs": ["Lean on Me - Bill Withers", "Walking on Sunshine - Katrina and the Waves", "All of Me - John Legend", "What a Wonderful World - Louis Armstrong", "Imagine - John Lennon", "The Climb - Miley Cyrus", "Ae Mere Humsafar - Baazigar", "Tujh Mein Rab Dikhta Hai - Rab Ne Bana Di Jodi", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Teri Meri - Bodyguard"],
+        "Books": ["The 5 Love Languages - Gary Chapman", "The Road Less Traveled - M. Scott Peck", "The Art of Happiness - Dalai Lama", "The Seven Habits of Highly Effective People - Stephen Covey", "The Secret - Rhonda Byrne", "The Power of Now - Eckhart Tolle", "The Book Thief - Markus Zusak", "The God of Small Things - Arundhati Roy", "The Immortals of Meluha - Amish Tripathi", "Life's Amazing Secrets - Gaur Gopal Das"]
+    },
+    {
+        "Personality": "ISTP",
+        "Movies": ["The Dark Knight", "Die Hard", "Inception", "Mad Max: Fury Road", "The Matrix", "John Wick", "3 Idiots", "Maqbool", "Zindagi Na Milegi Dobara", "Baazigar"],
+        "Songs": ["Smells Like Teen Spirit - Nirvana", "Back in Black - AC/DC", "Stairway to Heaven - Led Zeppelin", "Highway to Hell - AC/DC", "Lose Yourself - Eminem", "Knocking on Heaven's Door - Bob Dylan", "Gallan Goodiyan - Dil Dhadakne Do", "Dil Chahta Hai - Dil Chahta Hai", "Banno - Tanu Weds Manu", "Chandni Chowk to China - Chandni Chowk to China"],
+        "Books": ["The Catcher in the Rye - J.D. Salinger", "Into the Wild - Jon Krakauer", "The Outsiders - S.E. Hinton", "The Lean Startup - Eric Ries", "The Innovator's Dilemma - Clayton Christensen", "The Power of Habit - Charles Duhigg", "The Immortals of Meluha - Amish Tripathi", "Shantaram - Gregory David Roberts", "The White Tiger - Aravind Adiga", "The God of Small Things - Arundhati Roy"]
+    },
+    {
+        "Personality": "ISFP",
+        "Movies": ["The Secret Life of Walter Mitty", "Amélie", "Into the Wild", "Deadpool", "La La Land", "Call Me by Your Name", "Barfi!", "Piku", "Zindagi Na Milegi Dobara", "Chhichhore"],
+        "Songs": ["Clair de Lune - Debussy", "Bohemian Rhapsody - Queen", "Your Best American Girl - Mitski", "Blinding Lights - The Weeknd", "Someone Like You - Adele", "Come Away With Me - Norah Jones", "Viva La Vida - Coldplay", "Chupke Chupke - Kabhi Alvida Naa Kehna", "Ae Mere Humsafar - Baazigar", "Tujh Mein Rab Dikhta Hai - Rab Ne Bana Di Jodi"],
+        "Books": ["The Alchemist - Paulo Coelho", "The Catcher in the Rye - J.D. Salinger", "Brida - Paulo Coelho", "The Perks of Being a Wallflower - Stephen Chbosky", "The Great Gatsby - F. Scott Fitzgerald", "The Book Thief - Markus Zusak", "Siddhartha - Hermann Hesse", "Life of Pi - Yann Martel", "2 States - Chetan Bhagat", "The God of Small Things - Arundhati Roy"]
+    },
+    {
+        "Personality": "ESTP",
+        "Movies": ["Mad Max: Fury Road", "The Dark Knight", "The Matrix", "Deadpool", "Fight Club", "Die Hard", "Zindagi Na Milegi Dobara", "3 Idiots", "Maqbool", "Chakde! India"],
+        "Songs": ["Eye of the Tiger - Survivor", "Back in Black - AC/DC", "Stronger - Kanye West", "Can't Stop - Red Hot Chili Peppers", "Lose Yourself - Eminem", "The Real Slim Shady - Eminem", "Gallan Goodiyan - Dil Dhadakne Do", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Banno - Tanu Weds Manu", "Chandni Chowk to China - Chandni Chowk to China"],
+        "Books": ["The 48 Laws of Power - Robert Greene", "The Art of War - Sun Tzu", "The Lean Startup - Eric Ries", "The Innovator's Dilemma - Clayton Christensen", "Rich Dad Poor Dad - Robert Kiyosaki", "Outliers - Malcolm Gladwell", "The White Tiger - Aravind Adiga", "The God of Small Things - Arundhati Roy", "The Immortals of Meluha - Amish Tripathi", "Shantaram - Gregory David Roberts"]
+    },
+    {
+        "Personality": "ESFP",
+        "Movies": ["The Greatest Showman", "La La Land", "Deadpool", "Into the Wild", "Mamma Mia!", "Zindagi Na Milegi Dobara", "Barfi!", "Chhichhore", "Pyaar Ka Punchnama", "Dil Dhadakne Do"],
+        "Songs": ["Uptown Funk - Mark Ronson", "Happy - Pharrell Williams", "Can't Stop the Feeling! - Justin Timberlake", "Rolling in the Deep - Adele", "Shake It Off - Taylor Swift", "Gallan Goodiyan - Dil Dhadakne Do", "Dil Dhadakne Do - Zindagi Na Milegi Dobara", "Ilahi - Yeh Jawaani Hai Deewani", "Banno - Tanu Weds Manu", "Tamma Tamma Again - Badrinath Ki Dulhania"],
+        "Books": ["The Fault in Our Stars - John Green", "The Perks of Being a Wallflower - Stephen Chbosky", "The Book Thief - Markus Zusak", "Life of Pi - Yann Martel", "Siddhartha - Hermann Hesse", "2 States - Chetan Bhagat", "The God of Small Things - Arundhati Roy", "The White Tiger - Aravind Adiga", "The Alchemist - Paulo Coelho", "Brida - Paulo Coelho"]
+    }
+]
+
+
